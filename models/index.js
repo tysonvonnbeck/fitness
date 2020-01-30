@@ -1,4 +1,4 @@
 
 module.exports={
-    Exercises=require("./Exercises")
+    Exercises=require("./Exercise")
 }

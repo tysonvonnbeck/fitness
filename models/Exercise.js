@@ -30,5 +30,5 @@ var ExerciseSchema=new Schema({
             required:true
         }
 })
-var Exercises = mongoose.model("Exercises", ExerciseSchema)
-module.exports=Exercises
+var Exercises = mongoose.model("Exercise", ExerciseSchema)
+module.exports=Exercise
